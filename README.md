@@ -6,7 +6,7 @@
 - 📫 How to reach me **djacer.messaadia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on a healthcare appointment application.<br>🌱 I’m currently learning full stack web development.<br>
 
 
