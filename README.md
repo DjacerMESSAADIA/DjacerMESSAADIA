@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Djacer</h1>
 <h3 align="left">A passionate fullstack web developer.</h3>
 
-<h3 align="left">currently working on : a healthcare appointment platform</h3>
+<h3 align="left">currently exploring and thinking of interesting projects and ideas</h3>
 <h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me **djacer.messaadia@gmail.com**
